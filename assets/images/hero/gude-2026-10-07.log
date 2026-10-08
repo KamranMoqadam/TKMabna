@@ -1,0 +1,9 @@
+19:45:52:241 [WARN]	Request Failed. ErrorCode: 32 errorMessage: Network Error, Send Request Failed. WinHTTP Connection Error. last error code = 12030 
+19:45:52:244 [WARN]	Request Failed. ErrorCode: 32 errorMessage: Network Error, Send Request Failed. WinHTTP Connection Error. last error code = 12030 
+19:45:52:511 [WARN]	Request Failed. ErrorCode: 112029 errorMessage: Platform Status, Send Request Failed. WinHTTP Cannot Connect. last error code = 12029 
+19:45:52:521 [WARN]	Request Failed. ErrorCode: 32 errorMessage: Network Error, Send Request Failed. WinHTTP Connection Error. last error code = 12030 
+19:45:52:772 [WARN]	Request Failed. ErrorCode: 112029 errorMessage: Platform Status, Send Request Failed. WinHTTP Cannot Connect. last error code = 12029 
+19:45:52:799 [WARN]	Request Failed. ErrorCode: 32 errorMessage: Network Error, Send Request Failed. WinHTTP Connection Error. last error code = 12030 
+19:45:53:060 [WARN]	Request Failed. ErrorCode: 112029 errorMessage: Platform Status, Send Request Failed. WinHTTP Cannot Connect. last error code = 12029 
+19:45:53:061 [WARN]	Request Failed. ErrorCode: 32 errorMessage: Network Error, Send Request Failed. WinHTTP Connection Error. last error code = 12030 
+19:45:53:309 [WARN]	Request Failed. ErrorCode: 112029 errorMessage: Platform Status, Send Request Failed. WinHTTP Cannot Connect. last error code = 12029 
