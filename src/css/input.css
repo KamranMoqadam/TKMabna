@@ -1,0 +1,140 @@
+@import "tailwindcss";
+
+@source "../components/**/*.html";
+@source "../fa/**/*.html";
+@source "../*.html";
+@source "../js/**/*.js";
+@source "../**/**/*.js";
+/* =========================================================
+   Poppins - English
+   ========================================================= */
+
+@font-face {
+    font-family: "Poppins";
+    src: url("../../assets/fonts/EN/Poppins-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("../../assets/fonts/EN/Poppins-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("../../assets/fonts/EN/Poppins-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("../../assets/fonts/EN/Poppins-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("../../assets/fonts/EN/Poppins-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* =========================================================
+   IRANYekan - Persian
+   ========================================================= */
+
+@font-face {
+    font-family: "IRANYekan";
+    src: url("../../assets/fonts/FA/IRANYekanThinFaNum.ttf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "IRANYekan";
+    src: url("../../assets/fonts/FA/IRANYekanLightFaNum.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "IRANYekan";
+    src: url("../../assets/fonts/FA/IRANYekanRegularFaNum.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "IRANYekan";
+    src: url("../../assets/fonts/FA/IRANYekanMediumFaNum.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "IRANYekan";
+    src: url("../../assets/fonts/FA/IRANYekanBoldFaNum.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "IRANYekan";
+    src: url("../../assets/fonts/FA/IRANYekanExtraBoldFaNum.ttf") format("truetype");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "IRANYekan";
+    src: url("../../assets/fonts/FA/IRANYekanBlackFaNum.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "IRANYekan";
+    src: url("../../assets/fonts/FA/IRANYekanExtraBlackFaNum.ttf") format("truetype");
+    font-weight: 950;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* =========================================================
+   TKMabna Theme
+   ========================================================= */
+
+@theme {
+
+    /* Fonts */
+    --font-sans: "Poppins", sans-serif;
+    --font-fa: "IRANYekan", sans-serif;
+
+
+    /* Brand Colors */
+
+    --color-tkm-cream: #ebe2db;
+    --color-tkm-blush: #e0c3b5;
+    --color-tkm-burgundy: #4e0e30;
+    --color-tkm-dark: #2f151e;
+    --color-tkm-taupe: #b09287;
+}
