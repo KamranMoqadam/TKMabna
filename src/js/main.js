@@ -191,7 +191,7 @@ async function loadHeader() {
 
 
     const headerFile = isPersianPage()
-        ? "../../TKMabna/components/header-fa.html"
+        ? "components/header-fa.html"
         : "components/header.html";
 
 
@@ -935,7 +935,7 @@ async function loadFooter() {
 
 
     const footerFile = isPersianPage()
-        ? "../../TKMabna/components/footer-fa.html"
+        ? "components/footer-fa.html"
         : "components/footer.html";
 
 
